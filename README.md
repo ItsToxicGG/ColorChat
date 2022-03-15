@@ -4,3 +4,4 @@ A ColorChat Plugin Still in progress Will be used in DctxGamesMC
 - Permissions
 - Commands
 - Different Chat colors
+- Form Support
